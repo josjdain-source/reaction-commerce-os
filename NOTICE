@@ -1,0 +1,22 @@
+Reaction Commerce OS
+Copyright (c) 2026 투 성 / IGS AI 개발.
+
+This project is released as open source under the LICENSE file included in this
+repository (Apache License 2.0). Copyright remains with the original author.
+Open source release does not mean copyright waiver or public domain dedication.
+
+This repository may include references to third-party services such as Instagram,
+Coupang Partners, Naver, GitHub, and other platforms. All trademarks and service
+names belong to their respective owners. This project is not affiliated with,
+endorsed by, or sponsored by any of these platforms.
+
+Third-party open-source projects were studied for patterns only; no third-party
+code was copied. All code in this repository was written by the original author.
+References discovered during research are tracked in data/mined_repos.json.
+
+This project does NOT include private API keys, access tokens, account
+credentials, copyrighted media assets, or private operational data.
+
+This project must not be used for spam, automated DMs, automated following,
+unauthorized re-uploading of others' media, platform policy circumvention,
+or any abusive automation. See SAFETY_POLICY.md.

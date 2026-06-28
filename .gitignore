@@ -1,0 +1,30 @@
+# secrets — 절대 커밋 금지
+.env
+*.env
+!.env.example
+
+# 캐시
+__pycache__/
+*.pyc
+
+# 운영 데이터 (공개 금지)
+data/
+output/
+outputs/
+voice_outputs/
+captures/
+pack_assets/
+
+# 미디어 원본 (공개 금지)
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.png
+*.jpg
+*.jpeg
+
+# 감사 산출물(재생성됨)
+secrets_audit_report.json
