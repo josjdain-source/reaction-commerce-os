@@ -7,6 +7,8 @@
 상품 정찰 → 쇼츠 패턴 → 감정 게이트 → 캐릭터 보이스 → 영상 조립 → 발행 → 링크인바이오 → **제휴 전환**까지
 하나의 루프로. 리액션 쇼츠 한 편이 끝나는 게 아니라, **제휴 링크 카드까지 자동으로 연결**됩니다.
 
+📐 **전체 구조(공장 지도)**: [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) — Product Scout → Content Pack → Capture → Emotion → Voice → Assembler → Publisher → Link-in-bio → Metrics
+
 ---
 
 ## Copyright and License
